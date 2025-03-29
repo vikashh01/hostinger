@@ -48,7 +48,15 @@ This project automates the login and navigation functionalities of the Hostinger
 - **Priority**: Medium
 - **Screenshot**: Attached
 - **Suggestion**: Implement real-time price recalculations when changing billing periods to avoid user confusion.
-
+### Bug 2: UI Responsiveness Issue
+- **Description:** The website layout breaks or elements are misaligned on different mobile screen sizes.
+- **Steps to Reproduce:**
+  1. Open the website on multiple mobile screen sizes.
+  2. Observe layout inconsistencies or broken elements.
+- **Expected Result:** The website should adjust properly for all screen sizes.
+- **Actual Result:** The UI elements do not render properly on different screen sizes.
+- **Severity:** Medium
+- **Priority:** Medium
 ## Execution
 Run the test suite using:
 ```
