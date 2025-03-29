@@ -57,11 +57,7 @@ This project automates the login and navigation functionalities of the Hostinger
 - **Actual Result:** The UI elements do not render properly on different screen sizes.
 - **Severity:** Medium
 - **Priority:** Medium
-## Execution
-Run the test suite using:
-```
-mvn test
-```
+
 
 ## Author
 Vikash Kumar Bharti
